@@ -1,0 +1,4 @@
+certificate_data="LS0tLS1CRUdJTiBDRVJUSUZJQ0FURS0tLS0tCk1JSURKe......."
+server="https://xxxxxxxx.k8s.ondigitalocean.com"
+cluster_name="do-ams3-xxxx-staging"
+k="kubectl --kubeconfig=/home/XXX/config-stage"
